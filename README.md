@@ -3,4 +3,5 @@ Ecommerce website for handbags
 
 LINK: https://deehandbags.000webhostapp.com/
 
-![HomePage](https://user-images.githubusercontent.com/51731752/94885883-1bbcc300-0437-11eb-911b-1d6384b4c0d8.png)
+![deehandbagbig](https://user-images.githubusercontent.com/51731752/95027493-8ac83080-065e-11eb-88ee-931ed4d6a1c8.gif)
+
